@@ -4,13 +4,18 @@
 
 A Simple and Easy to use Cryptocurrency Price tracker.
 
-
-![Logo](https://raw.githubusercontent.com/SahilChandravanshi/simple-crypto-tracker/main/public/newlogo.png)
-
+<p align="center">
+  <img alt="icon" width="35%" src="https://raw.githubusercontent.com/SahilChandravanshi/simple-crypto-tracker/main/public/newlogo.png">
+</p>
 
 ## Demo
 
-![Demo](https://raw.githubusercontent.com/SahilChandravanshi/simple-crypto-tracker/main/public/demo.gif)
+<br>
+
+<p align="center">
+  <img alt="saklash-theme(soothing)-snap" width="80%" src="https://raw.githubusercontent.com/SahilChandravanshi/simple-crypto-tracker/main/public/demo.gif">
+</p>
+
 
 ## Features
 
